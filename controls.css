@@ -1,0 +1,18 @@
+.ranges {
+    width: 50px;
+}
+
+#numB {
+    background-color: black;
+    color: white;
+}
+
+#randB {
+    background-color: hotpink;
+    color: red;
+}
+
+#plusB {
+    background-color: grey;
+    color: white;
+}
